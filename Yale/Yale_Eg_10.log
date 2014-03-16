@@ -1,0 +1,481 @@
+[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 70.5263
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 71.5789
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 70
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 72.1053
+Average KNN Accuracy = 71.0526
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 68.4211
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 69.4737
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 64.7368
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 71.0526
+Average KNN Accuracy = 68.4211
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 64.2105
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 65.2632
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 65.7895
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 67.3684
+Average KNN Accuracy = 65.6579
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 63.1579
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 64.2105
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 63.6842
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 65.2632
+Average KNN Accuracy = 64.0789
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 56.3158
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 66.3158
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 61.5789
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 66.8421
+Average KNN Accuracy = 62.7632
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 57.3684
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 61.5789
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 60.5263
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 65.2632
+Average KNN Accuracy = 61.1842
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 56.8421
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 62.6316
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 58.9474
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 66.3158
+Average KNN Accuracy = 61.1842
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 59.4737
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 61.5789
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 56.3158
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 64.7368
+Average KNN Accuracy = 60.5263
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 56.8421
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 60.5263
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 56.8421
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 65.7895
+Average KNN Accuracy = 60
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 58.9474
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 60.5263
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 54.7368
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 64.7368
+Average KNN Accuracy = 59.7368
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 56.3158
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 60.5263
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 54.7368
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 63.6842
+Average KNN Accuracy = 58.8158
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 57.3684
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 58.4211
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 54.7368
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 67.3684
+Average KNN Accuracy = 59.4737
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 55.2632
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 60.5263
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 53.6842
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 67.3684
+Average KNN Accuracy = 59.2105
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 54.2105
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 62.1053
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 52.1053
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 65.2632
+Average KNN Accuracy = 58.4211
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 52.1053
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 60.5263
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 52.1053
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 60.5263
+Average KNN Accuracy = 56.3158
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 51.0526
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 59.4737
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 51.5789
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 58.9474
+Average KNN Accuracy = 55.2632
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 49.4737
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 58.4211
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 50.5263
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 58.4211
+Average KNN Accuracy = 54.2105
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 47.8947
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 57.3684
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 54.2105
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 55.2632
+Average KNN Accuracy = 53.6842
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 47.8947
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 58.4211
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 53.1579
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 54.2105
+Average KNN Accuracy = 53.4211
+Average SVM Accuracy = 88.6842
+[?1l>[?1h=
+                                                               < M A T L A B (R) >
+                                                     Copyright 1984-2013 The MathWorks, Inc.
+                                                       R2013a (8.1.0.604) 64-bit (glnxa64)
+                                                                February 15, 2013
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+Computing fold-1
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 45.2632
+Computing fold-2
+Accuracy = 88.9474% (169/190) (classification)
+Accuracy = 57.3684
+Computing fold-3
+Accuracy = 83.1579% (158/190) (classification)
+Accuracy = 52.6316
+Computing fold-4
+Accuracy = 93.6842% (178/190) (classification)
+Accuracy = 53.6842
+Average KNN Accuracy = 52.2368
+Average SVM Accuracy = 88.6842
+[?1l>
